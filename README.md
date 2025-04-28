@@ -1,7 +1,5 @@
 # SRBS-_Backend
 
-Here's a short report specifically for the backend issues encountered during the development of the **Student Resource Booking System (SRBS)**:
-
 ---
 
 ## Report on Backend Issues Encountered
@@ -72,5 +70,5 @@ The main issues in the backend related to CORS configuration, authentication, an
 
 ---
 
-Let me know if you'd like any further details or changes to the report!
+
 
