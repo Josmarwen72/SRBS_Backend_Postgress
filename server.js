@@ -7,10 +7,10 @@ require('./db');
 const app = express(); // ✅ move this up before using app!
 
 // CORS setup - allowing specific origins
-const allowedOrigins = [
-  'http://localhost:5500', // Localhost frontend
-  'http://192.168.100.7:5500' // Remote frontend IP
-];
+const allowedOrigins = ['http://localhost:5500', // for local testing
+                       'http://192.168.100.7:5500', // for local network
+    'https://josmarwen72.github.io/Student-Resource-Booking-System_Frontend/'              
+  ];
 
 // CORS middleware
 app.use(cors({
