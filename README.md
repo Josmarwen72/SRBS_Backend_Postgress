@@ -1,5 +1,7 @@
 # SRBS-_Backend
-
+I was able to set up the database and the backend and ran the server 
+everything was working .
+Unfortunatly I've got some issues.
 ---
 
 ## Report on Backend Issues Encountered
